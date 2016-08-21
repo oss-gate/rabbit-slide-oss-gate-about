@@ -4,6 +4,12 @@ OSS Gateを知らない人向けのOSS Gateの説明
 
 ## ライセンス
 
+### images/oss-gate-icon.svg
+
+CC0 1.0（パブリックドメイン）
+
+### その他
+
 CC BY-SA 4.0
 
 原著作者名は以下の通りです。
