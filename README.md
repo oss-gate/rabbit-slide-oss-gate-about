@@ -30,9 +30,9 @@ CC BY-SA 4.0
 
 ### インストール
 
-    gem install rabbit-slide-oss-gate-about
+    gem install rabbit-slide-oss-gate-introduction-japanese
 
 ### 表示
 
-    rabbit rabbit-slide-oss-gate-about.gem
+    rabbit rabbit-slide-oss-gate-introduction-japanese.gem
 
