@@ -64,6 +64,10 @@ OSSの門？
 
 ![](images/oss-gate-support.svg){:relative_width="100"}
 
+# くぐってからも継続
+
+![](images/oss-gate-next-step.svg){:relative_width="100"}
+
 # 集まれ！
 
 ![](images/oss-gate-join-us.svg){:relative_width="100"}
@@ -80,5 +84,14 @@ OSSの門？
     * {::wait/}ターゲット：未参加者
     * {::wait/}東京・札幌・大阪で開催中！
       * もっと開催地域を増やしたい！
+    * {::wait/}開催予定情報：
+      https://oss-gate.doorkeeper.jp/
+
+# まとめ3
+
+  * OSS Gate○○
+    * {::wait/}継続的な開発参加者を増やす方法
+    * {::wait/}ターゲット：門をくぐった人
+    * {::wait/}東京で実験中
     * {::wait/}開催予定情報：
       https://oss-gate.doorkeeper.jp/
