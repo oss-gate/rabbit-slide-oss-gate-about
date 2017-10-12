@@ -4,8 +4,8 @@ base_name: about-oss-gate
 tags:
 - rabbit
 - oss_gate
-presentation_date: 2017-02-25
-version: 2017.2.25.0
+presentation_date: 2017-10-14
+version: 2017.10.14.0
 licenses:
 - CC-BY-SA-4.0
 slideshare_id: 
