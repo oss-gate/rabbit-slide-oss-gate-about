@@ -76,22 +76,16 @@ OSSの門？
 
   * OSS Gate
     * {::wait/}OSS開発参加者を増やす取り組み
-
-# まとめ2
-
   * OSS Gateワークショップ
     * {::wait/}OSS開発参加者を増やす方法の1つ
-    * {::wait/}ターゲット：未参加者
-    * {::wait/}東京・札幌・大阪で開催中！
-      * もっと開催地域を増やしたい！
-    * {::wait/}開催予定情報：
-      https://oss-gate.doorkeeper.jp/
 
-# まとめ3
+# まとめ2：ワークショップ
 
-  * OSS Gate○○
-    * {::wait/}継続的な開発参加者を増やす方法
-    * {::wait/}ターゲット：門をくぐった人
-    * {::wait/}東京で実験中
-    * {::wait/}開催予定情報：
-      https://oss-gate.doorkeeper.jp/
+  * {::wait/}ターゲット：未参加者
+  * {::wait/}各地で開催中！
+    * 東京・札幌・大阪・京都・広島
+    * もっと開催地域を増やしたい！
+  * {::wait/}開催予定情報：
+
+    {:.x-small}
+    https://oss-gate.doorkeeper.jp/
