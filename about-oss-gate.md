@@ -79,7 +79,22 @@ OSSの門？
   * OSS Gateワークショップ
     * {::wait/}OSS開発参加者を増やす方法の1つ
 
-# まとめ2：ワークショップ
+
+# まとめ2：継続参加
+
+  * GitHub
+    * {::wait/}リポジトリにて参加表明Issueの発行をお願いいたします。
+
+      {:.x-small}
+      https://github.com/oss-gate/members
+
+  * Gitter
+    * {::wait/}チャンネルにて参加表明をお願いいたします。
+
+      {:.x-small}
+      https://gitter.im/oss-gate/general 
+
+# まとめ3：ワークショップ
 
   * {::wait/}ターゲット：未参加者
   * {::wait/}各地で開催中！
