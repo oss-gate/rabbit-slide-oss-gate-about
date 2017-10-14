@@ -72,35 +72,34 @@ OSSの門？
 
 ![](images/oss-gate-join-us.svg){:relative_width="100"}
 
-# まとめ1
+# おさらい
 
   * OSS Gate
-    * {::wait/}OSS開発参加者を増やす取り組み
+    * OSS開発参加者を増やす取り組み
   * OSS Gateワークショップ
-    * {::wait/}OSS開発参加者を増やす方法の1つ
+    * OSS開発参加者を増やす方法の1つ
 
-
-# まとめ2：継続参加
+# 参加方法
 
   * GitHub
-    * {::wait/}リポジトリにて参加表明Issueの発行をお願いいたします。
+    * 参加表明issue作成
+
+      {:.xx-small}
+      https://github.com/oss-gate/members/issues/new
+
+  * Gitter（チャット）
+    * 参加表明書き込み
 
       {:.x-small}
-      https://github.com/oss-gate/members
-
-  * Gitter
-    * {::wait/}チャンネルにて参加表明をお願いいたします。
-
-      {:.x-small}
-      https://gitter.im/oss-gate/general 
+      https://gitter.im/oss-gate/general
 
 # まとめ3：ワークショップ
 
-  * {::wait/}ターゲット：未参加者
-  * {::wait/}各地で開催中！
+  * ターゲット：未参加者
+  * 各地で開催中！
     * 東京・札幌・大阪・京都・広島
     * もっと開催地域を増やしたい！
-  * {::wait/}開催予定情報：
+  * 開催予定情報：
 
     {:.x-small}
     https://oss-gate.doorkeeper.jp/
